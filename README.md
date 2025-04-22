@@ -14,10 +14,9 @@ Requirements:
 
 Directory System or structure:
 
-   Model/Dataset/    : contains the dataset in a json format. Populary known as intents file which consists of tags(class), patterns(queries) and responses(replies).
-   Model/files/      : contains processed data and saved model to eliminate the duration for re-training the same model on same data.
-   Model/images/     : contains all the images for image detections in WhatsApp web. These images are of the WhatsApp web version 2.2212.8.
-                       These images might need changes in further updates
+   1. Model/Dataset/    : contains the dataset in a json format. Populary known as intents file which consists of tags(class), patterns(queries) and responses(replies).
+   2. Model/files/      : contains processed data and saved model to eliminate the duration for re-training the same model on same data.
+   3. Model/images/     : contains all the images for image detections in WhatsApp web. These images are of the WhatsApp web version 2.2212.8. These images might need changes in further updates.
 
 Python Files inside Model Directory:
   1. trainer.py : for processing the dataset and training the Sequential model of mainly 3 layers.
