@@ -1,0 +1,243 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hello",
+        "Hi",
+        "Hey",
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "How are you?",
+        "What’s up?",
+        "Howdy",
+        "Hi there"
+      ],
+      "responses": [
+        "Hello! Welcome to Bharat Enterprises. How can I assist you today?",
+        "Hi! Thanks for reaching out to Bharat Enterprises. How can we help?",
+        "Hey! We're here to help you with all your IT needs. How can we assist?",
+        "Good morning! How may Bharat Enterprises assist you today?",
+        "Good afternoon! Let us know how we can help with your tech solutions.",
+        "Good evening! How can we make your day easier with our services?",
+        "I'm doing great, thank you for asking! How can Bharat Enterprises help you today?",
+        "Hello there! What can Bharat Enterprises assist you with today?",
+        "Howdy! At Bharat Enterprises, we’re here to make your business thrive. How can we help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Goodbye",
+        "Bye",
+        "See you later",
+        "Take care",
+        "Have a great day",
+        "Talk to you soon",
+        "See you soon",
+        "Bye for now",
+        "Catch you later",
+        "Until next time"
+      ],
+      "responses": [
+        "goodbye! thanks for reaching out to bharat enterprises. we are here whenever you need us!",
+        "bye! have a wonderful day, and feel free to contact bharat enterprises anytime!",
+        "see you later! at bharat enterprises, we are always here to help when you need us.",
+        "take care! if you need any it solution, do not hesitate to reach out to bharat enterprises.",
+        "have a great day! we are just a message away at bharat enterprises.",
+        "talk to you soon! bharat enterprises is always here to assist with your tech need.",
+        "see you soon! do not forget that bharat enterprises is always ready to support you.",
+        "bye for now! if you ever need help, bharat enterprises will be here for you.",
+        "catch you later! we are always happy to assist at bharat enterprises.",
+        "until next time! reach out to bharat enterprises whenever you need assistance."
+      ]
+    },
+    {
+      "tag": "timing",
+      "patterns": [
+        "What time is it?",
+        "What is the time?",
+        "Tell me the time",
+        "What time do you open?",
+        "What time do you close?",
+        "When are you available?",
+        "Are you open now?",
+        "When can I contact you?",
+        "What are your working hours?",
+        "When do you work?"
+      ],
+      "responses": [
+        "bharat enterprises is available to assist you from 9 am to 6 pm ist, monday to friday.",
+        "our working hour at bharat enterprises are from 9 am to 6 pm ist, monday to friday.",
+        "bharat enterprises operate from 9 am to 6 pm ist, monday to friday. feel free to reach out during these hour!",
+        "we are available monday through friday from 9 am to 6 pm ist at bharat enterprises.",
+        "bharat enterprises operate from 9 am to 6 pm ist, monday to friday, for all your tech need.",
+        "bharat enterprises is available from 9 am to 6 pm ist, monday through friday.",
+        "we are open from 9 am to 6 pm ist, monday to friday. feel free to contact bharat enterprises during these time!",
+        "our team is available monday to friday, 9 am to 6 pm ist, to assist you.",
+        "bharat enterprises is open monday through friday from 9 am to 6 pm ist.",
+        "we are available from 9 am to 6 pm ist, monday to friday, at bharat enterprises."
+      ]
+    },
+    {
+      "tag": "about",
+      "patterns": [
+        "Tell me about Bharat Enterprises",
+        "What is Bharat Enterprises?",
+        "Who is Bharat Enterprises?",
+        "Can you tell me about your company?",
+        "What does Bharat Enterprises do?",
+        "Give me information about Bharat Enterprises",
+        "What is the mission of Bharat Enterprises?",
+        "Tell me about your services",
+        "What is the vision of Bharat Enterprises?",
+        "How did Bharat Enterprises start?"
+      ],
+      "responses": [
+        "Bharat Enterprises is a leading IT company in India, offering innovative solutions in software development, cloud computing, cybersecurity, and AI to optimize business operations.",
+        "We are an IT powerhouse, providing state-of-the-art services in cloud, AI, cybersecurity, and digital transformation to enhance business performance.",
+        "At Bharat Enterprises, we harness technology to drive success, offering custom software solutions, IT consulting, AI, data analytics, and cybersecurity across industries.",
+        "As an IT leader, Bharat Enterprises empowers businesses with software development, cloud computing, data security, and AI services worldwide.",
+        "Our mission is to provide exceptional IT services, including software development, cloud solutions, and cybersecurity, to help businesses innovate and grow.",
+        "Bharat Enterprises offers advanced IT services, such as cloud migration, cybersecurity, software development, and AI, to businesses globally.",
+        "We offer a full range of IT solutions, from cloud services and software development to machine learning and cybersecurity, tailored to your needs.",
+        "Bharat Enterprises delivers high-quality technology solutions in cloud computing, AI, cybersecurity, and enterprise software development to help businesses grow.",
+        "Founded to innovate and transform industries, Bharat Enterprises is a trusted IT partner, providing advanced solutions in software development, data security, and digital transformation."
+      ]
+    },
+    {
+      "tag": "founder",
+      "patterns": [
+        "Tell me about the founder of Bharat Enterprises",
+        "Who is Bharat Nadar?",
+        "Who founded Bharat Enterprises?",
+        "Can you tell me about Bharat Nadar?",
+        "Who is the founder of your company?",
+        "Tell me more about Bharat Nadar",
+        "What is Bharat Nadar background?",
+        "What inspired Bharat Nadar to start Bharat Enterprises?",
+        "Tell me about the person who founded Bharat Enterprises",
+        "Who is the visionary behind Bharat Enterprises?"
+      ],
+      "responses": [
+        "Bharat Nadar, the visionary founder of Bharat Enterprises, created the company to provide advanced IT solutions, including software, cybersecurity, and AI-driven services, empowering businesses globally.",
+        "Bharat Nadar founded Bharat Enterprises with a passion for technology and a vision to make cutting-edge tech solutions accessible to businesses worldwide.",
+        "Bharat Nadar, a seasoned entrepreneur, established Bharat Enterprises to deliver innovative solutions in cloud computing, AI, and cybersecurity, helping businesses thrive in the digital age.",
+        "As a forward-thinking entrepreneur, Bharat Nadar built Bharat Enterprises to help businesses grow through technology, leveraging his expertise in software development and innovation.",
+        "Bharat Nadar, the driving force behind Bharat Enterprises, founded the company with a vision of providing top-tier IT solutions in software engineering, AI, and digital transformation.",
+        "Bharat Nadar has over a decade of experience in IT and founded Bharat Enterprises to deliver cutting-edge technological solutions in software development, cloud services, and cybersecurity.",
+        "Bharat Nadar established Bharat Enterprises to help businesses succeed through innovative IT solutions, with a focus on software development, cloud services, and digital transformation.",
+        "Bharat Nadar, driven by a belief in technology's potential, founded Bharat Enterprises to help businesses grow by offering innovative IT solutions in cloud, AI, and cybersecurity.",
+        "With a strong vision and extensive tech experience, Bharat Nadar founded Bharat Enterprises to deliver high-quality IT solutions focused on customer satisfaction and innovation."
+      ]
+    },
+    {
+      "tag": "botcreator",
+      "patterns": [
+        "Who created this chatbot?",
+        "Who made this chatbot?",
+        "How was this chatbot created?",
+        "Tell me about the creator of this chatbot",
+        "How was this bot built?",
+        "Who developed this AI chatbot?",
+        "Tell me about the technology behind this chatbot",
+        "How did Bharat Nadar create this chatbot?",
+        "What technology powers this chatbot?"
+      ],
+      "responses": [
+        "This chatbot was created by Bharat Nadar using AI, Machine Learning, and neural networks to provide intelligent and responsive interactions.",
+        "Bharat Nadar, the founder of Bharat Enterprises, built this chatbot with AI, ML, and neural networks to offer fast and accurate responses.",
+        "The chatbot was developed by Bharat Nadar using advanced AI and neural networks to ensure smart and adaptive conversations.",
+        "Bharat Nadar created this chatbot using AI and ML technologies to make it more intelligent and responsive to user queries.",
+        "The chatbot was built by Bharat Nadar using AI, Machine Learning, and neural networks for real-time, accurate responses.",
+        "This chatbot was created by Bharat Nadar with AI, ML, and neural networks to learn and improve over time, providing better user support.",
+        "Bharat Nadar used AI, ML, and neural networks to build this chatbot, ensuring it provides intelligent and efficient support.",
+        "The chatbot was created using AI, ML, and neural networks by Bharat Nadar to offer smart and context-aware responses.",
+        "Bharat Nadar developed this chatbot using AI and neural networks to provide users with intelligent, real-time assistance.",
+        "This chatbot was designed by Bharat Nadar using AI, ML, and neural networks, allowing it to learn and improve from interactions."
+      ]
+    },
+    {
+      "tag": "services",
+      "patterns": [
+        "What services does Bharat Enterprises offer?",
+        "Tell me about your services",
+        "What IT services do you provide?",
+        "Can you describe your services?",
+        "What are the services provided by Bharat Enterprises?",
+        "What kind of services do you offer?",
+        "What IT solutions do you provide?",
+        "What are your business solutions?",
+        "Tell me about the technology services you offer",
+        "What services can I get from Bharat Enterprises?"
+      ],
+      "responses": [
+        "Bharat Enterprises provides IT services such as software development, cloud computing, AI solutions, and cybersecurity to help businesses grow.",
+        "We offer a wide range of IT services, including software development, cybersecurity, cloud solutions, and AI-driven technologies.",
+        "Bharat Enterprises specializes in software development, cloud computing, cybersecurity, and AI solutions to optimize business operations.",
+        "Our services include custom software development, cloud migration, data security, AI, and machine learning solutions tailored to your needs.",
+        "We provide IT services like software development, AI integration, cloud solutions, and cybersecurity to enhance business performance.",
+        "At Bharat Enterprises, we offer solutions in software development, cloud computing, AI, and cybersecurity to meet your business goals.",
+        "We provide comprehensive IT services, including software development, AI, machine learning, and cybersecurity to improve business efficiency.",
+        "Bharat Enterprises offers services like cloud services, custom software development, AI solutions, and cybersecurity for businesses.",
+        "Our IT services cover cloud technology, AI integration, software development, and robust cybersecurity to help your business succeed.",
+        "We offer IT solutions in software development, cloud migration, AI, and cybersecurity, designed to empower your business."
+      ]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+        "Where is Bharat Enterprises located?",
+        "What is the location of your company?",
+        "Where can I find Bharat Enterprises?",
+        "Tell me your office location",
+        "Where are you based?",
+        "Where is your company situated?",
+        "What is your address?",
+        "Where is Bharat Enterprises based?",
+        "Can you tell me the location of Bharat Enterprises?",
+        "Where is your office in Mumbai?"
+      ],
+      "responses": [
+        "Bharat Enterprises is located in Sion, Mumbai.",
+        "Our office is based in Sion, Mumbai.",
+        "Bharat Enterprises is situated in Sion, Mumbai, India.",
+        "We are located in Sion, Mumbai. Feel free to visit us!",
+        "You can find Bharat Enterprises at Sion, Mumbai.",
+        "Our headquarters are in Sion, Mumbai.",
+        "Bharat Enterprises is located in the heart of Sion, Mumbai.",
+        "We are based in Sion, Mumbai, serving clients nationwide.",
+        "Bharat Enterprises is located in Sion, Mumbai, Maharashtra.",
+        "Our office is in Sion, Mumbai, India."
+      ]
+    },
+    {
+      "tag": "pricing",
+      "patterns": [
+        "What are your service prices?",
+        "How much do your services cost?",
+        "Tell me the pricing for your services",
+        "What is the price range for your services?",
+        "How much do your IT solutions cost?",
+        "Can you provide pricing details?",
+        "What are the costs for your services?",
+        "What is the price of your services?",
+        "How much for your IT services?",
+        "Do you have a pricing list?"
+      ],
+      "responses": [
+        "the pricing for our services varies based on your needs. we offer solutions starting from rupee 50000, with custom pricing for larger projects. please contact us to discuss your requirements in detail.",
+        "our services range from rupee 50000, with pricing tailored to your specific project. for more detailed information, feel free to meet us, and we will provide a custom quote.",
+        "the cost of our services starts at rupee 50000, but the exact price depends on the scope of your project. contact us for a detailed consultation and quote.",
+        "our services typically range from rupee 50000, with customized pricing based on your project requirements. let us meet to discuss your needs and get a precise quote.",
+        "prices for our services start from rupee 50000. for more accurate pricing based on your project, we recommend scheduling a meeting for a detailed quote.",
+        "we offer services starting at rupee 50000, but the final pricing depends on your project needs. meet with us to get a tailored pricing estimate.",
+        "our pricing starts from rupee 50000, but varies depending on the complexity of your project. let us meet to discuss your requirements in detail and provide an accurate quote.",
+        "the price range for our services starts from rupee 50000. for more detailed pricing and a custom quote, feel free to meet with us.",
+        "our it services begin at rupee 50000, with the cost depending on your specific requirements. contact us to schedule a meeting for a detailed pricing discussion.",
+        "our services start from rupee 50000, and the pricing may vary based on your project. please meet us for a detailed discussion and accurate quote."
+      ]
+    }
+  ]
+}
